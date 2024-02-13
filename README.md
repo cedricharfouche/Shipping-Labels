@@ -1,0 +1,1 @@
+A freelance project that takes a PDF of two shipping labels, on two seperate pages, and combines them into one, smaller page. Reduces Printing costs by 50% and enables easier placing of the labels on out-going packages. 
